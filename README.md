@@ -19,14 +19,14 @@ Provide a modular and extensible architecture for the car shop system.
 Demonstrate dynamic feature addition to cars and real-time observation of inventory changes.
 <hr>
 <h2>Main body:</h2><br><br>
-&#9675;Singleton Pattern (CarShop): Ensures a single instance of the CarShop exists, allowing centralized control of the car inventory.
+&diams; Singleton Pattern (CarShop): Ensures a single instance of the CarShop exists, allowing centralized control of the car inventory.
 <br>
-&#9675;Observer Pattern (Observer, ConsoleObserver): Enables the CarShop to notify observers (such as ConsoleObserver) about changes in the car inventory, providing a real-time update mechanism.
+&diams; Observer Pattern (Observer, ConsoleObserver): Enables the CarShop to notify observers (such as ConsoleObserver) about changes in the car inventory, providing a real-time update mechanism.
 
-&#9675;Decorator Pattern (CarDecorator, LedHeadlightsDecorator, FastChargingDecorator, WinterWheelsDecorator): Allows the dynamic addition of features to cars without modifying their core implementation. Each decorator extends the functionality of the base Car class.
+&diams; Decorator Pattern (CarDecorator, LedHeadlightsDecorator, FastChargingDecorator, WinterWheelsDecorator): Allows the dynamic addition of features to cars without modifying their core implementation. Each decorator extends the functionality of the base Car class.
 
-&#9675;Factory Pattern (CarFactory): Encapsulates the process of creating cars, providing a flexible way to instantiate different types of cars.
+&diams; Factory Pattern (CarFactory): Encapsulates the process of creating cars, providing a flexible way to instantiate different types of cars.
 
-&#9675;Strategy Pattern (CarStrategy): Defines a strategy for adding features to a car. Concrete strategies like WinterWheelsStrategy and LedHeadlightsStrategy can be implemented.
+&diams; Strategy Pattern (CarStrategy): Defines a strategy for adding features to a car. Concrete strategies like WinterWheelsStrategy and LedHeadlightsStrategy can be implemented.
 
-&#9675;Adapter Pattern (QuickChargingAdapter): Adapts the interface to enable quick charging for cars. It bridges the gap between the existing Car interface and the specific quick charging implementation.<br>
+&diams; Adapter Pattern (QuickChargingAdapter): Adapts the interface to enable quick charging for cars. It bridges the gap between the existing Car interface and the specific quick charging implementation.<br>
