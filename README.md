@@ -54,8 +54,8 @@ Integration of a graphical user interface (GUI) to enhance user interaction and 
 Implementation of additional features, such as user authentication and transaction logging.
 Further refinement of the charging mechanism to accommodate different charging stations and protocols.
 <hr>
-<h2>References:</h2><br>
-https://refactoring.guru/ru/design-patterns
-https://refactoring.guru/ru/design-patterns/adapter
-https://www.w3schools.com/java/
-https://www.geeksforgeeks.org/design-patterns-set-4-observer-pattern/
+<h2>References:</h2>
+https://refactoring.guru/ru/design-patterns<br>
+https://refactoring.guru/ru/design-patterns/adapter<br>
+https://www.w3schools.com/java/<br>
+https://www.geeksforgeeks.org/design-patterns-set-4-observer-pattern/<br>
