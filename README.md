@@ -16,9 +16,9 @@ Implement a car management system using Java.
 Utilize design patterns to address different aspects of the system's functionality.
 Showcase the practical application of Singleton, Observer, Decorator, Factory, Strategy, and Adapter patterns.
 Provide a modular and extensible architecture for the car shop system.
-Demonstrate dynamic feature addition to cars and real-time observation of inventory changes.<br>
+Demonstrate dynamic feature addition to cars and real-time observation of inventory changes.<br><br>
 
-![image](https://github.com/8143142/SDP_final/assets/74787806/3c617352-c905-451d-9ae6-badf2b565754)
+![image](https://github.com/8143142/SDP_final/assets/74787806/3c617352-c905-451d-9ae6-badf2b565754)<br>
 UML Diagram of the Design Patterns used in this project
 <hr>
 <h2>Main body:</h2><br>
