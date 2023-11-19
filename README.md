@@ -17,3 +17,16 @@ Utilize design patterns to address different aspects of the system's functionali
 Showcase the practical application of Singleton, Observer, Decorator, Factory, Strategy, and Adapter patterns.
 Provide a modular and extensible architecture for the car shop system.
 Demonstrate dynamic feature addition to cars and real-time observation of inventory changes.
+<hr>
+<h2>Main body:</h2><br><br>
+Singleton Pattern (CarShop): Ensures a single instance of the CarShop exists, allowing centralized control of the car inventory.
+
+Observer Pattern (Observer, ConsoleObserver): Enables the CarShop to notify observers (such as ConsoleObserver) about changes in the car inventory, providing a real-time update mechanism.
+
+Decorator Pattern (CarDecorator, LedHeadlightsDecorator, FastChargingDecorator, WinterWheelsDecorator): Allows the dynamic addition of features to cars without modifying their core implementation. Each decorator extends the functionality of the base Car class.
+
+Factory Pattern (CarFactory): Encapsulates the process of creating cars, providing a flexible way to instantiate different types of cars.
+
+Strategy Pattern (CarStrategy): Defines a strategy for adding features to a car. Concrete strategies like WinterWheelsStrategy and LedHeadlightsStrategy can be implemented.
+
+Adapter Pattern (QuickChargingAdapter): Adapts the interface to enable quick charging for cars. It bridges the gap between the existing Car interface and the specific quick charging implementation.<br>
