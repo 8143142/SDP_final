@@ -1,8 +1,8 @@
-<h3><b>Project name:</b> AutoCraftHub <br><h3>
-<h3><b>Group:</b> SE-2216 <br><h3>
-<h3><b>Team members:</b> Nauryzbay Tasbulat, Dauren Rysbek <br><h3>
+<h3><b>Project name:</b> AutoCraftHub <br></h3>
+<h3><b>Group:</b> SE-2216 <br></h3>
+<h3><b>Team members:</b> Nauryzbay Tasbulat, Dauren Rysbek <br></h3>
 <hr>
-<h2>Project Overview:<h2><br><br>
+<h2>Project Overview:</h2><br><br>
 The project is a car management system that incorporates various design patterns to achieve modularity, extensibility, and maintainability. The system involves creating and managing a car inventory within a car shop. Users can add new cars, add additional features to existing cars, delete cars from the inventory, apply chosen cars to the site, charge cars quickly, and observe changes in the car inventory.<br><br>
 Idea of the Project:
 <br>
