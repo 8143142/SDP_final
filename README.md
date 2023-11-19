@@ -19,9 +19,9 @@ Provide a modular and extensible architecture for the car shop system.
 Demonstrate dynamic feature addition to cars and real-time observation of inventory changes.
 <hr>
 <h2>Main body:</h2><br>
-&diams; Singleton Pattern (CarShop): Ensures a single instance of the CarShop exists, allowing centralized control of the car inventory.<br>
+&diams; Singleton Pattern (CarShop): Ensures a single instance of the CarShop exists, allowing centralized control of the car inventory.<br><br>
 
-&diams; Observer Pattern (Observer, ConsoleObserver): Enables the CarShop to notify observers (such as ConsoleObserver) about changes in the car inventory, providing a real-time update mechanism.<br>
+&diams; Observer Pattern (Observer, ConsoleObserver): Enables the CarShop to notify observers (such as ConsoleObserver) about changes in the car inventory, providing a real-time update mechanism.<br><br>
 
 &diams; Decorator Pattern (CarDecorator, LedHeadlightsDecorator, FastChargingDecorator, WinterWheelsDecorator): Allows the dynamic addition of features to cars without modifying their core implementation. Each decorator extends the functionality of the base Car class.<br>
 
@@ -33,17 +33,17 @@ Demonstrate dynamic feature addition to cars and real-time observation of invent
 <hr>
 <h2>Conclusion:</h2><br>
 Key Points of the Project:
-<br><br>
+<br>
 The project successfully demonstrates the implementation of several design patterns to create a modular and extensible car management system.
-Design patterns such as Singleton, Observer, Decorator, Factory, Strategy, and Adapter contribute to the flexibility and maintainability of the code.
+Design patterns such as Singleton, Observer, Decorator, Factory, Strategy, and Adapter contribute to the flexibility and maintainability of the code.<br><br>
 Project Outcomes:
-<br><br>
+<br>
 The project achieved a modular structure, making it easy to add new features or modify existing ones without affecting the entire system.
-Real-time observation of inventory changes provides a dynamic and responsive user experience.
+Real-time observation of inventory changes provides a dynamic and responsive user experience.<br><br>
 Challenges Faced:
-<br><br>
+<br>
 The complexity of integrating multiple design patterns required careful consideration of interactions between components.
-Ensuring that the patterns were applied appropriately and effectively posed a challenge in balancing simplicity and flexibility.
+Ensuring that the patterns were applied appropriately and effectively posed a challenge in balancing simplicity and flexibility.<br><br>
 Future Improvements:
 <br>
 Integration of a graphical user interface (GUI) to enhance user interaction and visualization.
