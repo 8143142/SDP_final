@@ -18,7 +18,8 @@ Showcase the practical application of Singleton, Observer, Decorator, Factory, S
 Provide a modular and extensible architecture for the car shop system.
 Demonstrate dynamic feature addition to cars and real-time observation of inventory changes.<br><br>
 
-![image](https://github.com/8143142/SDP_final/assets/74787806/3c617352-c905-451d-9ae6-badf2b565754)<br>
+![image](https://github.com/8143142/SDP_final/assets/74787806/3d9c8f8c-abd5-4657-9990-f6290b750baf)
+<br>
 UML Diagram of the Design Patterns used in this project
 <hr>
 <h2>Main body:</h2><br>
