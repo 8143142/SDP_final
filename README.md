@@ -1,4 +1,4 @@
-<h3><b>Project name:</b> AutoCraftHub <br></h3>
+<h3><b>Project name:</b> AutoCraftHub U+1F697; <br></h3>
 <h3><b>Group:</b> SE-2216 <br></h3>
 <h3><b>Team members:</b> Nauryzbay Tasbulat, Dauren Rysbek <br></h3>
 <hr>
@@ -24,7 +24,7 @@ UML Diagram of the Design Patterns used in this project
 <h2>Main body:</h2><br>
 &diams; Singleton Pattern (CarShop): Ensures a single instance of the CarShop exists, allowing centralized control of the car inventory.<br><br>
 
-&diams; Observer Pattern (Observer, ConsoleObserver): Enables the CarShop to notify observers (such as ConsoleObserver) about changes in the car inventory, providing a real-time update mechanism.<br><br>
+&diams; Observer Pattern (Observer, ConsoleObserver): Enables the CarShop to notify observers (such as ConsoleObserver) about changes in the car inventory, providing a real-time update mechanism.<br>
 
 &diams; Decorator Pattern (CarDecorator, LedHeadlightsDecorator, FastChargingDecorator, WinterWheelsDecorator): Allows the dynamic addition of features to cars without modifying their core implementation. Each decorator extends the functionality of the base Car class.<br>
 
