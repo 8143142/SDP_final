@@ -53,3 +53,9 @@ Future Improvements:
 Integration of a graphical user interface (GUI) to enhance user interaction and visualization.
 Implementation of additional features, such as user authentication and transaction logging.
 Further refinement of the charging mechanism to accommodate different charging stations and protocols.
+<hr>
+<h2>References:</h2><br>
+https://refactoring.guru/ru/design-patterns
+https://refactoring.guru/ru/design-patterns/adapter
+https://www.w3schools.com/java/
+https://www.geeksforgeeks.org/design-patterns-set-4-observer-pattern/
