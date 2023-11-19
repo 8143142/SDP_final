@@ -33,15 +33,15 @@ Demonstrate dynamic feature addition to cars and real-time observation of invent
 <hr>
 <h2>Conclusion:</h2><br>
 Key Points of the Project:
-<br>
+<br><br>
 The project successfully demonstrates the implementation of several design patterns to create a modular and extensible car management system.
 Design patterns such as Singleton, Observer, Decorator, Factory, Strategy, and Adapter contribute to the flexibility and maintainability of the code.
 Project Outcomes:
-<br>
+<br><br>
 The project achieved a modular structure, making it easy to add new features or modify existing ones without affecting the entire system.
 Real-time observation of inventory changes provides a dynamic and responsive user experience.
 Challenges Faced:
-<br>
+<br><br>
 The complexity of integrating multiple design patterns required careful consideration of interactions between components.
 Ensuring that the patterns were applied appropriately and effectively posed a challenge in balancing simplicity and flexibility.
 Future Improvements:
