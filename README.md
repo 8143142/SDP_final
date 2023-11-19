@@ -2,7 +2,7 @@
 <h3><b>Group:</b> SE-2216 <br></h3>
 <h3><b>Team members:</b> Nauryzbay Tasbulat, Dauren Rysbek <br></h3>
 <hr>
-<h2>Project Overview:</h2><br><br>
+<h2>Project Overview:</h2><br>
 The project is a car management system that incorporates various design patterns to achieve modularity, extensibility, and maintainability. The system involves creating and managing a car inventory within a car shop. Users can add new cars, add additional features to existing cars, delete cars from the inventory, apply chosen cars to the site, charge cars quickly, and observe changes in the car inventory.<br><br>
 Idea of the Project:
 <br>
@@ -16,7 +16,10 @@ Implement a car management system using Java.
 Utilize design patterns to address different aspects of the system's functionality.
 Showcase the practical application of Singleton, Observer, Decorator, Factory, Strategy, and Adapter patterns.
 Provide a modular and extensible architecture for the car shop system.
-Demonstrate dynamic feature addition to cars and real-time observation of inventory changes.
+Demonstrate dynamic feature addition to cars and real-time observation of inventory changes.<br>
+
+![image](https://github.com/8143142/SDP_final/assets/74787806/3c617352-c905-451d-9ae6-badf2b565754)
+UML Diagram of the Design Patterns used in this project
 <hr>
 <h2>Main body:</h2><br>
 &diams; Singleton Pattern (CarShop): Ensures a single instance of the CarShop exists, allowing centralized control of the car inventory.<br><br>
